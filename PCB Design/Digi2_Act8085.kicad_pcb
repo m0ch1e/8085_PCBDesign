@@ -221,7 +221,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "020f8390-3649-443e-a45d-9793afab0f30")
-		(at 199 30.23)
+		(at 212.5 31.25)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C2"
@@ -473,7 +473,7 @@
 	(footprint "Package_TO_SOT_THT:TO-220-3_Vertical"
 		(layer "F.Cu")
 		(uuid "03668995-8f4b-412f-aed8-bcf1aa27a1a6")
-		(at 208.81 39.08)
+		(at 222.31 40.1)
 		(descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
 		(tags "TO-220-3 Vertical RM 2.54mm")
 		(property "Reference" "U3"
@@ -778,7 +778,7 @@
 	(footprint "Crystal:Crystal_HC49-U_Vertical"
 		(layer "F.Cu")
 		(uuid "061c834c-a42f-4aa3-84a1-1afd962fb83f")
-		(at 209.6 31.83)
+		(at 223.1 32.85)
 		(descr "Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf")
 		(tags "THT crystalHC-49/U")
 		(property "Reference" "Y1"
@@ -1058,11 +1058,11 @@
 	(footprint "Package_DIP:DIP-16_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "14453eec-df58-432d-bfe0-cc02cb17e69f")
-		(at 125.91 85.03)
+		(at 96.5 78.3)
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U7"
-			(at 3.81 -2.33 0)
+			(at 1.61 0.57 0)
 			(layer "F.SilkS")
 			(uuid "38d0bc59-1bab-43b1-8fca-2e83e35efbff")
 			(effects
@@ -1557,11 +1557,11 @@
 	(footprint "Package_DIP:DIP-20_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "16420888-62c8-4b5e-af43-3e192d63a8e2")
-		(at 114.16 85.03)
+		(at 84.75 78.3)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U6"
-			(at 3.81 -2.33 0)
+			(at 1.61 0.57 0)
 			(layer "F.SilkS")
 			(uuid "00c73f28-882e-48b7-aac8-ada41a2dc93c")
 			(effects
@@ -2100,7 +2100,7 @@
 	(footprint "Ferrite_THT:LairdTech_28C0236-0JW-10"
 		(layer "F.Cu")
 		(uuid "1bbb8f97-0b6b-493f-9428-425352ba4d96")
-		(at 222.96 69)
+		(at 236.46 70.02)
 		(descr "Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters")
 		(tags "Ferrite vertical LairdTech 28C0236-0JW-10")
 		(property "Reference" "FB1"
@@ -2320,7 +2320,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "23234be7-e4d2-4b44-9766-6a07e219cb5a")
-		(at 199 54.38)
+		(at 212.5 55.4)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C9"
@@ -2572,7 +2572,7 @@
 	(footprint "Package_DIP:DIP-40_W15.24mm"
 		(layer "F.Cu")
 		(uuid "2482cbf1-cde0-4cbe-894f-c4111b1890a7")
-		(at 150.46 30.58)
+		(at 131.76 22.78)
 		(descr "40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
 		(property "Reference" "U10"
@@ -3255,7 +3255,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "3e711215-9302-4923-908a-a045b8c3467d")
-		(at 199 33.68)
+		(at 212.5 34.7)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C3"
@@ -6053,7 +6053,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "6518176e-f88b-4ec9-ba49-c582ea38ddb4")
-		(at 199 50.93)
+		(at 212.5 51.95)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C8"
@@ -6305,7 +6305,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "66fb4000-3a06-4ae3-acfc-8223f3470e52")
-		(at 199 40.58)
+		(at 212.5 41.6)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C5"
@@ -7239,7 +7239,7 @@
 	(footprint "Package_DIP:DIP-40_W15.24mm"
 		(layer "F.Cu")
 		(uuid "828f7284-044a-4d98-b981-9397a03b45ce")
-		(at 113.66 30.58)
+		(at 94.96 22.78)
 		(descr "40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
 		(property "Reference" "U8"
@@ -7922,7 +7922,7 @@
 	(footprint "LED_THT:LED_D8.0mm"
 		(layer "F.Cu")
 		(uuid "8d7fec9a-b605-45f8-a63f-7c3181ef19b1")
-		(at 209.65 50.54)
+		(at 223.15 51.56)
 		(descr "LED, diameter 8.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED8MMGE_LED8MMGN_LED8MMRT%23KIN.pdf")
 		(tags "LED diameter 8.0mm 2 pins")
 		(property "Reference" "D1"
@@ -9505,7 +9505,7 @@
 	(footprint "Connector_BarrelJack:BarrelJack_Horizontal"
 		(layer "F.Cu")
 		(uuid "952beb10-221f-45c9-931a-d67552e45e9d")
-		(at 211.95 68.215)
+		(at 226.425 71.56)
 		(descr "DC Barrel Jack")
 		(tags "Power Jack")
 		(property "Reference" "U2"
@@ -11290,7 +11290,7 @@
 	(footprint "Package_DIP:DIP-40_W15.24mm"
 		(layer "F.Cu")
 		(uuid "c017887c-2179-4258-8735-a8c979299385")
-		(at 132.06 30.58)
+		(at 113.36 22.78)
 		(descr "40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 15.24mm 600mil")
 		(property "Reference" "U9"
@@ -11973,7 +11973,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "c077b28b-b761-419d-b90e-0818e4851e89")
-		(at 199 37.13)
+		(at 212.5 38.15)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C4"
@@ -12225,7 +12225,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "d3be64f5-5b8e-4124-b936-4633355bf3b0")
-		(at 199 44.03)
+		(at 212.5 45.05)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C6"
@@ -12477,7 +12477,7 @@
 	(footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "d868ed48-1578-4fee-9d5d-b37a23dfcb79")
-		(at 199 47.48)
+		(at 212.5 48.5)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor")
 		(property "Reference" "C7"
@@ -12729,7 +12729,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e7764835-bd26-4831-b1ed-310a4776ccce")
-		(at 207.15 43.14)
+		(at 220.65 44.16)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
@@ -13001,7 +13001,7 @@
 	(footprint "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ec1768f8-9b2e-4db2-bf24-e80e6ab9fee6")
-		(at 199.8 59.48)
+		(at 213.3 60.5)
 		(descr "Diode, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf")
 		(tags "Diode DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm")
 		(property "Reference" "D2"
@@ -13355,6 +13355,150 @@
 		)
 	)
 	(segment
+ Chris_File
+		(start 128.6 58.34)
+		(end 127.5 59.44)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "2c301fea-3ea2-45e5-9120-7751fce97704")
+	)
+	(segment
+		(start 129.7 59.44)
+		(end 128.6 58.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "2ff3272b-5235-4791-80f9-56dc0c5f85cc")
+	)
+	(segment
+		(start 129.055635 69.94)
+		(end 133.53 74.414365)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "483e91ff-6458-4768-afd4-8bd0d1541571")
+	)
+	(segment
+		(start 133.53 74.414365)
+		(end 133.53 85.03)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "601cb3e5-8a2a-4705-9c99-52f4d9495642")
+	)
+	(segment
+		(start 147 58.34)
+		(end 146.66 58.34)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "8501b698-8258-4823-be4c-9e5048535e32")
+	)
+	(segment
+		(start 146.66 58.34)
+		(end 145.56 59.44)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "89c20900-4944-43ba-88d1-0a0ae3ec59ab")
+	)
+	(segment
+		(start 127.5 59.44)
+		(end 127.5 69.295635)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "8cc38347-6893-4809-911b-793bfc363bbd")
+	)
+	(segment
+		(start 127.5 69.295635)
+		(end 128.144365 69.94)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "9f0e089a-3e92-46af-ba94-6f0e19bf4eff")
+	)
+	(segment
+		(start 128.144365 69.94)
+		(end 129.055635 69.94)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "a1e20d77-d34c-4e00-b795-0dc2a567a750")
+	)
+	(segment
+		(start 145.56 59.44)
+		(end 129.7 59.44)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "c697aff8-10c6-4f88-b0b7-b2fa5f137746")
+	)
+	(segment
+		(start 171.36 102.81)
+		(end 177.55 109)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "2e7b185d-9a52-45dd-884d-9a9c6eb7ef9c")
+	)
+	(segment
+		(start 191.36 103.86)
+		(end 190.26 102.76)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "37901801-d2d8-469c-b28c-d4641915412a")
+	)
+	(segment
+		(start 190.655635 109)
+		(end 191.36 108.295635)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "522bf4f6-0828-432d-981d-428282bba679")
+	)
+	(segment
+		(start 191.36 108.295635)
+		(end 191.36 103.86)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "a4ee7515-8972-4439-944e-7d27c3b900f7")
+	)
+	(segment
+		(start 177.55 109)
+		(end 190.655635 109)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 23)
+		(uuid "f75be253-b23d-4d54-8773-847b099fd735")
+	)
+	(segment
+		(start 171.36 87.57)
+		(end 172.46 88.67)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 32)
+		(uuid "90f5c64e-faf9-4a03-9630-69b0e2362596")
+	)
+	(segment
+		(start 189.11 88.67)
+		(end 190.26 87.52)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 32)
+		(uuid "b587a26d-5b28-4d1e-8ea4-15ffd5df3a2c")
+	)
+	(segment
+		(start 172.46 88.67)
+		(end 189.11 88.67)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 32)
+		(uuid "f957f472-096d-4381-866a-a7a227e31d47")
+=======
 		(start 130.96 39.64)
 		(end 132.06 40.74)
 		(width 0.2)
@@ -13449,5 +13593,6 @@
 		(layer "F.Cu")
 		(net 55)
 		(uuid "b07235d6-8265-4e97-bfcf-a254ceb6acba")
+main
 	)
 )
